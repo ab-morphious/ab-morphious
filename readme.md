@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abel
-- 👀 I’m interested in Mobile Application Development, Machine Learning, AI
+- 👀 I’m interested in Mobile Applications Development, Machine Learning, AI
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on Android & Flutter
 <!---
