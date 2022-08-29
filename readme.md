@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abel Dagnew
+- 👋 Hi, I’m Abel Dagnew Mengesha
 - 👀 I’m interested in Mobile Applications Development & A.I
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on Android & Flutter
